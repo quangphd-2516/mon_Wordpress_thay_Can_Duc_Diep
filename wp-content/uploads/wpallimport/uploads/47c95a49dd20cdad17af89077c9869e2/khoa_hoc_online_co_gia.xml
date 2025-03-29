@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<coursetitle><![CDATA[Lập trình Java cơ bản]]></coursetitle>
+		<description><![CDATA[Học Java từ đầu: cài đặt, cú pháp, biến, vòng lặp, OOP.]]></description>
+		<givnd><![CDATA[373595]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Lập trình Python cho người mới bắt đầu]]></coursetitle>
+		<description><![CDATA[Nắm vững Python từ cơ bản đến ứng dụng thực tế.]]></description>
+		<givnd><![CDATA[575434]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Thiết kế Web với HTML & CSS]]></coursetitle>
+		<description><![CDATA[Tạo trang web cơ bản bằng HTML, CSS.]]></description>
+		<givnd><![CDATA[380078]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Lập trình JavaScript cơ bản]]></coursetitle>
+		<description><![CDATA[Tạo website tương tác với JavaScript.]]></description>
+		<givnd><![CDATA[336049]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Cơ bản về Git & GitHub]]></coursetitle>
+		<description><![CDATA[Quản lý mã nguồn hiệu quả với Git và GitHub.]]></description>
+		<givnd><![CDATA[218762]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Thiết kế giao diện web với Figma]]></coursetitle>
+		<description><![CDATA[Thiết kế UI web hiện đại bằng Figma.]]></description>
+		<givnd><![CDATA[541888]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Lập trình SQL và quản lý cơ sở dữ liệu]]></coursetitle>
+		<description><![CDATA[Truy vấn và quản lý dữ liệu bằng SQL.]]></description>
+		<givnd><![CDATA[548235]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[ReactJS cơ bản]]></coursetitle>
+		<description><![CDATA[Tạo ứng dụng web với thư viện ReactJS.]]></description>
+		<givnd><![CDATA[225894]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Thiết kế web chuẩn responsive]]></coursetitle>
+		<description><![CDATA[Giao diện web tương thích mọi thiết bị.]]></description>
+		<givnd><![CDATA[325188]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Phát triển Web Fullstack với MERN]]></coursetitle>
+		<description><![CDATA[Xây dựng ứng dụng web MERN hoàn chỉnh.]]></description>
+		<givnd><![CDATA[260756]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Tư duy lập trình cho người mới bắt đầu]]></coursetitle>
+		<description><![CDATA[Phát triển tư duy logic trong lập trình.]]></description>
+		<givnd><![CDATA[469398]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Khóa học C++ cơ bản]]></coursetitle>
+		<description><![CDATA[Bắt đầu với lập trình C++ từ A đến Z.]]></description>
+		<givnd><![CDATA[267685]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Làm quen với Data Structures & Algorithms]]></coursetitle>
+		<description><![CDATA[Cấu trúc dữ liệu và thuật toán cơ bản.]]></description>
+		<givnd><![CDATA[382062]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Thiết kế UI/UX cơ bản]]></coursetitle>
+		<description><![CDATA[Nền tảng thiết kế giao diện và trải nghiệm người dùng.]]></description>
+		<givnd><![CDATA[227690]]></givnd>
+	</node>
+	<node>
+		<coursetitle><![CDATA[Lập trình Android với Java]]></coursetitle>
+		<description><![CDATA[Tạo ứng dụng Android đầu tiên bằng Java.]]></description>
+		<givnd><![CDATA[205627]]></givnd>
+	</node>
+</data>

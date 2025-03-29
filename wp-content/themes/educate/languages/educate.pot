@@ -1,0 +1,475 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Educate V1.0.6\n"
+"POT-Creation-Date: 2018-07-05 17:13+0530\n"
+"PO-Revision-Date: 2015-03-26 18:12+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:28
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:33
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: author.php:12
+#, php-format
+msgid "All posts by : %s"
+msgstr ""
+
+#: category.php:12
+#, php-format
+msgid "Category : %s"
+msgstr ""
+
+#: comments.php:17
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: content.php:32 functions/theme-default-setup.php:73
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: content.php:43
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content.php:56
+msgid "Previous page"
+msgstr ""
+
+#: content.php:57
+msgid "Next page"
+msgstr ""
+
+#: content.php:58 functions/breadcrumbs.php:205
+msgid "Page"
+msgstr ""
+
+#: footer.php:38
+#, php-format
+msgid "Powered by %1$s"
+msgstr ""
+
+#: functions.php:10
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:61
+msgid "Pro Feature"
+msgstr ""
+
+#: functions.php:61
+msgid "Educate Pro"
+msgstr ""
+
+#: functions/breadcrumbs.php:21
+msgid "Home"
+msgstr ""
+
+#: functions/breadcrumbs.php:166 functions/breadcrumbs.php:169
+#: functions/breadcrumbs.php:173 functions/breadcrumbs.php:180
+#: functions/breadcrumbs.php:184 functions/breadcrumbs.php:189
+msgid " Archives"
+msgstr ""
+
+#: functions/breadcrumbs.php:200
+msgid "Author: "
+msgstr ""
+
+#: functions/breadcrumbs.php:205
+msgid "Page "
+msgstr ""
+
+#: functions/breadcrumbs.php:210
+msgid "Search results for: "
+msgstr ""
+
+#: functions/breadcrumbs.php:215
+msgid "Error 404"
+msgstr ""
+
+#: functions/customizer.php:44
+msgid "General"
+msgstr ""
+
+#: functions/customizer.php:45
+msgid "styling options"
+msgstr ""
+
+#: functions/customizer.php:54
+msgid "Site Social Accounts"
+msgstr ""
+
+#: functions/customizer.php:56
+msgid ""
+"In first input box, you need to add FONT AWESOME shortcode which you can "
+"find "
+msgstr ""
+
+#: functions/customizer.php:56
+msgid "here"
+msgstr ""
+
+#: functions/customizer.php:56
+msgid ""
+" and in second input box, you need to add your social media profile URL."
+msgstr ""
+
+#: functions/customizer.php:56
+msgid ""
+" Enter the URL of your social accounts. Leave it empty to hide the icon."
+msgstr ""
+
+#: functions/customizer.php:72
+msgid "Social Account "
+msgstr ""
+
+#: functions/customizer.php:90
+msgid "Enter Icon"
+msgstr ""
+
+#: functions/customizer.php:100
+msgid "Social Link "
+msgstr ""
+
+#: functions/customizer.php:119
+msgid "Enter URL"
+msgstr ""
+
+#: functions/customizer.php:127 functions/customizer.php:132
+msgid "Header & Logo"
+msgstr ""
+
+#: functions/customizer.php:149
+msgid "Enter Logo Size"
+msgstr ""
+
+#: functions/customizer.php:150
+msgid ""
+"Use if you want to increase or decrease logo size (optional) Don't enter "
+"`px` in the string. e.g. 20 (default: 10px)"
+msgstr ""
+
+#: functions/customizer.php:165
+msgid "Upload Scroll Logo"
+msgstr ""
+
+#: functions/customizer.php:166
+msgid "Logo Size (120 * 60)"
+msgstr ""
+
+#: functions/customizer.php:179
+msgid "Header Fix"
+msgstr ""
+
+#: functions/customizer.php:189
+msgid "Front Page Options"
+msgstr ""
+
+#: functions/customizer.php:190
+msgid "Front Page options"
+msgstr ""
+
+#: functions/customizer.php:199
+msgid "Front Page : Banner Slider"
+msgstr ""
+
+#: functions/customizer.php:217
+msgid "Upload Slider Image "
+msgstr ""
+
+#: functions/customizer.php:234
+msgid "Slider Title"
+msgstr ""
+
+#: functions/customizer.php:236
+msgid "Enter Slider Title "
+msgstr ""
+
+#: functions/customizer.php:238
+msgid "Enter Slider Title"
+msgstr ""
+
+#: functions/customizer.php:250
+msgid "Slider Content"
+msgstr ""
+
+#: functions/customizer.php:252
+msgid "Enter Slider Content "
+msgstr ""
+
+#: functions/customizer.php:254
+msgid "Enter Slider Content"
+msgstr ""
+
+#: functions/customizer.php:262
+msgid "Front Page : About Us"
+msgstr ""
+
+#: functions/customizer.php:279 functions/customizer.php:452
+#: functions/customizer.php:536
+msgid "Enter Title "
+msgstr ""
+
+#: functions/customizer.php:280
+msgid ""
+"Enter home page title for your site , you would like to display in the Home "
+"Page."
+msgstr ""
+
+#: functions/customizer.php:282 functions/customizer.php:454
+#: functions/customizer.php:538
+msgid "Enter Title"
+msgstr ""
+
+#: functions/customizer.php:296 functions/customizer.php:552
+msgid "Enter Sub Title "
+msgstr ""
+
+#: functions/customizer.php:297
+msgid ""
+"Enter home page sub title for your site , you would like to display in the "
+"Home Page."
+msgstr ""
+
+#: functions/customizer.php:299 functions/customizer.php:469
+#: functions/customizer.php:471 functions/customizer.php:554
+msgid "Enter Sub Title"
+msgstr ""
+
+#: functions/customizer.php:314 functions/customizer.php:569
+msgid "Enter Short Description "
+msgstr ""
+
+#: functions/customizer.php:315
+msgid ""
+"Enter content for your site , you would like to display in the Home Page."
+msgstr ""
+
+#: functions/customizer.php:317 functions/customizer.php:402
+#: functions/customizer.php:571
+msgid "Enter Description"
+msgstr ""
+
+#: functions/customizer.php:324
+msgid "Front Page : About Us Below Section"
+msgstr ""
+
+#: functions/customizer.php:344
+msgid "About us below Section"
+msgstr ""
+
+#: functions/customizer.php:345
+msgid "About us below section hide or show ."
+msgstr ""
+
+#: functions/customizer.php:348 functions/customizer.php:435
+#: functions/customizer.php:520 functions/customizer.php:630
+msgid "Show"
+msgstr ""
+
+#: functions/customizer.php:349 functions/customizer.php:436
+#: functions/customizer.php:521 functions/customizer.php:631
+msgid "Hide"
+msgstr ""
+
+#: functions/customizer.php:367
+msgid "Enter Font Awesome Icon ,Title and Description "
+msgstr ""
+
+#: functions/customizer.php:369
+msgid "Enter Font Awesome Icon"
+msgstr ""
+
+#: functions/customizer.php:385
+msgid "Enter title"
+msgstr ""
+
+#: functions/customizer.php:411
+msgid "Front Page : Blog"
+msgstr ""
+
+#: functions/customizer.php:431
+msgid "Blog Section"
+msgstr ""
+
+#: functions/customizer.php:432
+msgid "Blog Section hide or show ."
+msgstr ""
+
+#: functions/customizer.php:486
+msgid "Select Category"
+msgstr ""
+
+#: functions/customizer.php:487
+msgid ""
+"Select Categories of posts for your site , you would like to display in the "
+"Home Page."
+msgstr ""
+
+#: functions/customizer.php:497
+msgid "Front Page : Our Mission"
+msgstr ""
+
+#: functions/customizer.php:516
+msgid "Our Mission Section"
+msgstr ""
+
+#: functions/customizer.php:517
+msgid "Our Mission Section hide or show ."
+msgstr ""
+
+#: functions/customizer.php:585
+msgid "Enter Link "
+msgstr ""
+
+#: functions/customizer.php:587
+msgid "Enter Link"
+msgstr ""
+
+#: functions/customizer.php:601
+msgid "Enter Link Title "
+msgstr ""
+
+#: functions/customizer.php:603
+msgid "Enter Link Name"
+msgstr ""
+
+#: functions/customizer.php:610
+msgid "Footer"
+msgstr ""
+
+#: functions/customizer.php:627
+msgid "Footer Social icon show or hide"
+msgstr ""
+
+#: functions/customizer.php:648
+msgid "Enter Copyright Text"
+msgstr ""
+
+#: functions/theme-default-setup.php:9
+msgctxt "OpenSans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions/theme-default-setup.php:19
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/theme-default-setup.php:21
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: functions/theme-default-setup.php:28
+msgid "Footer 1"
+msgstr ""
+
+#: functions/theme-default-setup.php:30
+msgid "Footer First that appears on the bottom."
+msgstr ""
+
+#: functions/theme-default-setup.php:37
+msgid "Footer 2"
+msgstr ""
+
+#: functions/theme-default-setup.php:39
+msgid "Footer Second that appears on the bottom."
+msgstr ""
+
+#: functions/theme-default-setup.php:46
+msgid "Footer 3"
+msgstr ""
+
+#: functions/theme-default-setup.php:48
+msgid "Footer Third that appears on the bottom."
+msgstr ""
+
+#: functions/theme-default-setup.php:55
+msgid "Footer 4"
+msgstr ""
+
+#: functions/theme-default-setup.php:57
+msgid "Footer Forth that appears on the bottom."
+msgstr ""
+
+#: functions/theme-default-setup.php:85 functions/theme-default-setup.php:88
+msgid "No Comments"
+msgstr ""
+
+#: functions/theme-default-setup.php:90
+msgid " Comments"
+msgstr ""
+
+#: functions/theme-default-setup.php:92
+msgid "1 Comment"
+msgstr ""
+
+#: functions/theme-default-setup.php:115
+msgctxt "comment form placeholder"
+msgid "Name *"
+msgstr ""
+
+#: functions/theme-default-setup.php:122
+msgctxt "comment form placeholder"
+msgid "Email Id *"
+msgstr ""
+
+#: functions/theme-default-setup.php:129
+msgctxt "comment form placeholder"
+msgid "Website URl"
+msgstr ""
+
+#: functions/theme-default-setup.php:140
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr ""
+
+#: header.php:36
+msgid "Logo"
+msgstr ""
+
+#: index.php:18
+msgid "Our Blog"
+msgstr ""
+
+#: page-templates/full-width.php:51 single.php:55
+msgid "Pages"
+msgstr ""
+
+#: search.php:12
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: tag.php:12
+#, php-format
+msgid "Tag Archives : %s"
+msgstr ""
